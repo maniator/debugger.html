@@ -68,7 +68,7 @@
     "babel-traverse": "^6.26.0",
     "babel-types": "^6.26.0",
     "babylon": "^6.18.0",
-    "codemirror": "^5.28.0",
+    "codemirror": "^5.61.0",
     "devtools-components": "^0.0.2",
     "devtools-launchpad": "^0.0.100",
     "devtools-linters": "^0.0.3",
