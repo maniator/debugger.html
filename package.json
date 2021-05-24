@@ -95,7 +95,7 @@
     "redux-saga": "^0.15.4",
     "reselect": "^3.0.1",
     "svg-inline-react": "^1.0.2",
-    "wasmparser": "^0.4.10"
+    "wasmparser": "^0.16.1"
   },
   "files": ["src", "assets"],
   "greenkeeper": {
