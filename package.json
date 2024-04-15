@@ -80,7 +80,7 @@
     "devtools-utils": "^0.0.9",
     "fuzzaldrin-plus": "^0.4.1",
     "immutable": "^3.7.6",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.17",
     "lodash.kebabcase": "^4.1.1",
     "md5": "^2.2.1",
     "parse-script-tags": "^0.1.1",
